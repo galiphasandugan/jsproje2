@@ -1,0 +1,9 @@
+button{
+    color: aqua;
+    background-color:tomato;
+    margin: 40vh 40vw;
+    padding: 15px, 32px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
